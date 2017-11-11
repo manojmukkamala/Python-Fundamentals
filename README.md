@@ -11,11 +11,6 @@ Official website of Python https://www.python.org
 >> Python is case sensitive programming language.
 
 >> A group of individual statements, which make a single code block are called suites in Python. 
-For Ex: 
-if condition :
-  suite
-else :
-  suite
 
 >> Comments are created using #
 
@@ -27,12 +22,15 @@ planets = 9
 >> Standard Data Types: Numbers, String, List, Tuple, Dictionary
 
 >> Python supports the following types of operators
-    Arthimetic Operators
-    Relational operators
-    Assignment Operators (Exponential(power) calculation is done using **. Ex: a = b ** c )
-    Logical Operators
-    Bitwise Operators
-    Membership Operators
-    Identity Operators
+    Arthimetic Operators,
+    Relational operators,
+    Assignment Operators (Exponential(power) calculation is done using **. Ex: a = b ** c ),
+    Logical Operators,
+    Bitwise Operators,
+    Membership Operators,
+    Identity Operators,
     
->> 
+>> Python Decission Making: IF, IF...ELSE, IF...ELIF...ELSE
+
+>> Python Loops: While, For, do..While.
+If you enter infinite loop, use CTRL+C to exit the program.
