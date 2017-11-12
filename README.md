@@ -34,3 +34,7 @@ planets = 9
 
 >> Python Loops: While, For, do..While.
 If you enter infinite loop, use CTRL+C to exit the program.
+
+>> Python Functions: A function is a block of organized, resusable code that is used to perform a single, related action. Python has many buit-in functions like print() but we can also create our own functions. These functions are called user-defined functions. 
+
+
