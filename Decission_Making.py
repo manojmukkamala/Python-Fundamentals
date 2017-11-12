@@ -57,11 +57,4 @@ else:
 
 print ("Have a nice day");
 
-# While Statement
-days = 1;
-while (days < 8):
-    print ('The day is:', days);
-    days = days + 1;
-    
-print ('Week Complete');
 
